@@ -6,8 +6,6 @@
 
 target/*
 
-**/*.xml
-
 # Log file
 *.log
 
