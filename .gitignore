@@ -1,5 +1,5 @@
 #
-.idea
+.idea/**
 
 # `*.iml` files in all sub-directories
 **/*.iml
