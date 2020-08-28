@@ -1,5 +1,11 @@
-# Compiled class file
-*.class
+#
+.idea
+
+# `*.iml` files in all sub-directories
+**/*.iml
+
+target/*
+
 
 # Log file
 *.log
